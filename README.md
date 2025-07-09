@@ -51,11 +51,6 @@ g++ -o keyst typing_speed.cpp
 
 ---
 
-## 📷 Screenshots *(Optional)*
-> Add terminal screenshots or a short GIF showing usage here.
-
----
-
 ## 🙌 Contributing
 
 Contributions, feature requests, and suggestions are welcome!  
