@@ -39,12 +39,7 @@ git clone https://github.com/yourusername/keyst.git
 cd keyst
 ```
 
-### 2. Compile:
-```bash
-g++ -o keyst typing_speed.cpp
-```
-
-### 3. Run:
+### 2. Run:
 ```bash
 ./keyst
 ```
